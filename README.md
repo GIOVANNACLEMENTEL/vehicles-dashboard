@@ -17,4 +17,4 @@ Este projeto foi desenvolvido com Streamlit para realizar uma análise explorat�
 
 ## Link do aplicativo Render
 
-O link do aplicativo será adicionado após a publicação no Render.
+(https://vehicles-dashboard-ucez.onrender.com/)
